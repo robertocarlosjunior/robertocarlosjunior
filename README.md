@@ -1,9 +1,10 @@
 ## Prazer, me chamo Roberto Carlos, iniciante no mundo da programação mobile
 
-<div>
-  <img height="180em" src ='https://github-readme-stats.vercel.app/api?username=robertoalvarezjunior&show_icons=true&&theme=github_dark&include_all_commits=true&count_private=true'/>                         
-  <img height="180em" src ='https://github-readme-stats.vercel.app/api/top-langs/?username=robertoalvarezjunior&layout=compact&theme=github_dark&langs_count=7'/>
- </div>
+<div align="center">
+  <a href="https://github.com/robertoalvarezjunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robertoalvarezjunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertoalvarezjunior&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
  <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
