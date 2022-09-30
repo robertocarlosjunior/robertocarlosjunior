@@ -1,4 +1,4 @@
-## Prazer, me chamo Roberto Carlos, iniciante no mundo da programação mobile
+## Prazer, me chamo Roberto Carlos, sou desenvolvedor Flutter
 
 <div align="center">
   <a href="https://github.com/robertoalvarezjunior">
