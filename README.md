@@ -10,6 +10,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kotlin.svg" />
+  <img align="center" height="80" width="70" src="https://user-images.githubusercontent.com/3613230/41752586-476b0b24-7596-11e8-95fe-8fd3faa21e8a.png" />
   
 </div>
 
